@@ -25,4 +25,4 @@ bash run2.sh
 
 ## 🌟 Preview
 
-<img src="https://sv1.picz.in.th/images/2020/03/04/xJFDAQ.png" alt="xJFDAQ.png" border="0" height="2000" />
+<img src="https://sv1.picz.in.th/images/2020/03/04/xJFDAQ.png" alt="xJFDAQ.png" border="0" />
